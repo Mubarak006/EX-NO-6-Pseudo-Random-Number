@@ -11,7 +11,7 @@ Pass the value for number of iterations and print the numbers.
 End the program.
 
 # PROGRAM:
-~~~
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -33,8 +33,9 @@ printf("%d\n", random_number);
 }
 return 0;
 }
-~~~
+```
 # OUTPUT:
+<img width="1134" height="520" alt="image" src="https://github.com/user-attachments/assets/3157588c-e220-4331-9195-c7a05cefeb83" />
 
 # RESULT:
 Thus the program was executed successfully.
